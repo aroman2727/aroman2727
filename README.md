@@ -1,6 +1,6 @@
 # Hola, soy Aaron 👋
  
-Ingeniero en Mecatrónica con 5 años de experiencia en gestión de datos operativos, elaboración de reportes y seguimiento de KPIs. En formación continua en análisis de datos con SQL, Python y Power BI. Construyendo mi portafolio de proyectos para crecer como Data Analyst.
+Ingeniero en Mecatrónica con 5 años de experiencia en gestión de datos operativos, elaboración de reportes y seguimiento de KPIs. En formación continua en análisis de datos con SQL, Python y Power BI.
  
 Actualmente construyendo mi portafolio de proyectos de análisis mientras busco oportunidades como **Data Analyst Jr.**
  
