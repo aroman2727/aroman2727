@@ -28,8 +28,11 @@ Actualmente construyendo mi portafolio de proyectos de análisis mientras busco 
  
 ## 📜 Certificaciones
  
-- **IBM Data Engineering Professional Certificate** — Coursera
-- **SQL for Data Science** — UC Davis / Coursera
+- **Databases and SQL for Data Science with Python** — Coursera (2026)
+- **SQL for Data Science** — UC Davis / Coursera (2026)
+- **Python for Data Science, AI & Development** - IBM / Coursera (2026)
+- **Introduction to Data Engineering** - IBM / Coursera (2026)
+- **Introduction to Big Data with Spark and Hadoop** - IBM / Coursera (2026)
 ---
  
 ## 📫 Contacto
