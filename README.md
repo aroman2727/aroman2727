@@ -20,8 +20,7 @@ Ingeniero en Mecatrónica con 5 años de experiencia en gestión de datos operat
 | Proyecto | Herramientas | Descripción |
 |---|---|---|
 | [📊 Social Media & Mental Health Analysis](https://github.com/aroman2727/Social-Media-Mental-Health-Analysis) | SQL Server · Power BI | Análisis exploratorio sobre el impacto de las redes sociales en la salud mental, con modelos relacionales y dashboard interactivo |
- 
-> *Más proyectos en camino.*
+| [🏪 Online Retail II — Data Warehouse](https://github.com/aroman2727/Online-Retail-DW) | Python · SQL Server · Power BI | ETL completo desde CSV crudo hasta Data Warehouse con esquema estrella, 20 consultas analíticas con Window Functions y análisis RFM |
  
 ---
  
